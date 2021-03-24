@@ -1,0 +1,9 @@
+Washington
+----------
+Election results and precinct shapefile from Washington Secretary of State (https://www.sos.wa.gov/elections/research/election-results-and-voters-pamphlets.aspx)
+
+A dozen votes were reported countywide in King County and Yakima County, these were distributed by candidate to precincts based on their share of the precinct-level reported vote.
+
+G18USSDCAN - Maria Cantwell (Democratic Party)
+G18USSRHUT - Susan Hutchison (Republican Party)
+
