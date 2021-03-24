@@ -1,6 +1,12 @@
 # vest-wa-2018
 
 ## Raw From Source: 
+2018Gen - Leg.xlsx - 2018 General Election results from WA Secretary of State website
+
+2018Precincts_VERIFIED.shp - WA shapefiles from WA Secretary of State website
+
+wa_2018.shp - VEST's shapefile containing joined election data and geography data
+
 
 For each file used in script: 
 - File description
