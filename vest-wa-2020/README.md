@@ -21,7 +21,7 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
   - Note: These can be downloaded by clicking "GIS Ready Precinct Results".
     
 - WA Precinct Shapefile
-  - Online: [[Washington Secretary of State]](https://www.sos.wa.gov/elections/research/precinct-shapefiles.aspx)
+  - Online: [Washington Secretary of State](https://www.sos.wa.gov/elections/research/precinct-shapefiles.aspx)
   - Accessed: 10/20/21
   - Note: Download "Statewide_Precincts_2020General.zip".
 
